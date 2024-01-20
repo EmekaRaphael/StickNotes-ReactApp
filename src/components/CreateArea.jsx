@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Fab } from '@mui/material';
-import { AddOutlinedIcon } from '@mui/material';
+import AddOutlinedIcon from '@mui/icons-material/AddOutlined';
 import { Zoom } from "@mui/material";
 
 function CreateArea(props) {

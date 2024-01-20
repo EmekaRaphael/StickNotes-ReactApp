@@ -1,5 +1,5 @@
 import React from "react";
-import { EditNoteSharpIcon } from "@mui/material";
+import EditNoteSharpIcon from "@mui/icons-material/EditNoteSharp";
 
 function Header() {
   return (
